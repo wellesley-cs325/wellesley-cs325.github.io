@@ -247,3 +247,9 @@ If you or someone you know has experienced discrimination or harassment, support
   * You can report to the [Wellesley College Police Department](https://www.wellesley.edu/police) (Emergency: `781-283-5555`, Non-emergency: `781-283-2121`) if you believe a crime has been committed, or if there is an immediate safety risk.
 
 
+
+<br/>
+
+# Anonymous Feedback Form
+
+To give anonymous feedback to the CS230 instructors about the course, please use the [Anonymous Feedback Form](https://bit.ly/CS230Feedback).
