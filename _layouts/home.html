@@ -42,6 +42,9 @@ layout: default
                     {% else %}
                     <p>{{ins.name}}</p>
                     {% endif %}
+                    {% if ins.pronouns %}
+                    <p>({{ins.pronouns}})</p>
+                    {% endif %}		    
                 </div>
                 {% endfor %}
             </div>
@@ -58,6 +61,11 @@ layout: default
                     {% else %}
                     <p>{{ta.name}}</p>
                     {% endif %}
+-cover">
+                    {% if ta.pronouns %}
+                    <p>({{ta.pronouns}})</p>
+                    {% endif %}
+		    
                 </div>
                 {% endfor %}
             </div>
