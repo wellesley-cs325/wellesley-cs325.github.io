@@ -1,5 +1,8 @@
 # Wellesley's CS230
 
+**Links:**
+* Adapted from [this website](https://github.com/kazemnejad/jekyll-course-website-template)
+
 
 # Features
 - Individual page for assignments, lectures, course material, course schedule
