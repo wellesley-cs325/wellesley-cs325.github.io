@@ -174,3 +174,76 @@ We believe that collaboration fosters a healthy and enjoyable educational enviro
 Programming assignments in this course can be challenging. Also teamwork and large-scale collaboration is the norm in the CS industry. Given the above, some of the assignment work is required to be done paired with a partner from the class, while some is required to be done individually. In each assignment tasks will be clearly marked as either "individual" or "pair-programming". The two team members must work closely together on the pair-programming tasks, and turn in a single copy of work they did together.
 
 
+<br/>
+
+# Pair Programming
+
+**Pair-programming tasks are subject to the following ground rules:**
+* Each team member has to read the assignment problems, think of how to go on solving it, and sketch some solutions, **before** meeting with their partner.
+* While working together, the work must be a true collaboration in which each member of the team will carry their own weight. It is not acceptable for two team members to split the work between them and work independently.
+* The fact that team members have to program together means that you need to carefully consider a potential partner's schedule before forming a team. You cannot be an effective team if you cannot find large chunks of time to spend at a computer together!
+* Except for the first few assignments that are to be done individually, when submitting an assignment, you have to decide on your partner for the next assignment.
+* Working with different partners is a good way to build community in the class. View it as an opportunity.
+
+This semester, the instructors will assign partners for each pair-programming assignment. It is your responsibility to reach out to your partner and arrange times to meet and work on the assignment, keeping in mind the rules above. Sometimes it's hard or impossible to find times to meet, but we expect a good-faith effort.
+
+
+**Expectations:**
+* Contact your partner ASAP
+* Make a good-faith effort to work together
+  * Doing the same thing at the same time
+  * Not divide-and-conquer
+* If you visit OH solo, share the hints with your partner. Don't work on the assignment solo.
+* Contact us if your partner is not cooperative. (We might be able to re-match you).
+
+In general, teams are allowed to discuss assignment tasks with other teams and exchange ideas about how to solve them. However, there is a thin line between collaboration and plagiarizing the work of others. Please do not cross this line.
+
+**Each team or individual student must compose their own solution to each task.** Discussing strategies and approaches with classmates and receiving general debugging advice from them is acceptable and encouraged. However you (and your partner) are required to write and debug all of your code. Furthermore, you should never look at another student's code. For example, it is OK to borrow code from the textbook, from materials discussed in class, and from other sources as long as you give proper credit. However, it is unacceptable and constitutes a *violation of the Honor Code** (1) to write a program together with someone not part of your team and turn in two copies of the same program, (2) to copy code written by your classmates, (3) to read another student's or team's code (4) to view assignments, exams and solutions from previous terms of CS230, (5) to make any of the assignments, exams and solutions available to others online or off-line, or (6) to use generative AI tools such as ChatGPT or Github Co-pilot or any other language generation model. In keeping with the standards of the scientific community, you must give credit where credit is due (i.e. write their names at the top of the file). If you make use of an idea that was developed by (or jointly with) others, please reference them appropriately in your work. It is unacceptable for students to work together but not to acknowledge each other in their write-ups.
+
+
+
+<br/>
+
+# On using Generative AI tools in CS230
+
+Our policy in CS230 regarding the use of generative AI tools (ChatGPT, Copilot, Bard, or any other) is that it is an honor code violation to use generative AI tools for any purpose related to CS230 material while you complete an assignment or exam for CS230. It is also an honor code violation to copy any code from a generative AI tool and submit it as your work for an assignment or your project. If you use generative AI as part of your learning CS230, you need to be mindful about the following aspects of these tools:
+* They can produce incorrect information in a very believable way (known as “hallucinations”), if you take the output of generative AI for its word you might learn incorrect information.
+* They are trained on old information and might not have the most up-to-date information that we discuss in class.
+* Generative AI is trained on large volumes of data from the Internet and the ethics of its usage and proper attribution to originators is a controversial topic.
+
+**Our Policy.** Use generative AI tools to help your learning, not to avoid learning (cheat). Our CS230 policy is that you cannot use any code from generative AI for class submissions nor use it in any capacity during exams, however we recognize the that these tools can be helpful to assist your learning in other ways and here are our recommendations for using them:
+* Ask generative AI to produce questions for you as you study CS230 materials. As stated above, generative AI can produce incorrect solutions so don’t rely on their answers. However, they can produce sample questions and explanations that you can engage with to dive deeper into the course content.
+* It will probably produce reasonable answers for very basic concepts about the class material. You can use these tools to answer a simple question about a very common topic and use its answer to complement the way that topic is explained in class and in the textbook.
+* Practice asking for help. If you are unsure about what to ask of a TA or instructor, you may start formulating your question with generative AI and come to the CS230 team when you have identified your knowledge gap.
+
+
+
+<br/>
+
+# Accessibility and Disability
+
+Every student has a right to full access in this course. If you need any accommodations for CS 230, please contact Wellesley’s Disability Services. You should request accommodations as early as possible during the course, since some situations can require significant time for accommodation design. If you need immediate accommodations, please arrange an appointment with me as soon as possible. If you are unsure but suspect you may have an undocumented need for accommodations, you are encouraged to contact Disability Services. They can provide assistance including screening and referral for assessments. Disability Services can be reached at `disabilityservices@wellesley.edu`, at `781-283-2434`, or by [scheduling an appointment online](https://www.wellesley.edu/disability).
+
+
+
+<br/>
+
+## Religious Observance
+
+Students whose religious observances conflict with scheduled course events should contact the instructors in advance to discuss alternative arrangements. You may do this through the [Wellesley College Religious Observance Notification System](https://webapps.wellesley.edu/religious_calendar/) if you prefer.
+
+
+
+<br/>
+
+## Policies on Discrimination, Harassment, and Sexual Misconduct
+
+Wellesley College considers diversity essential to educational excellence, and we are committed to being a community in which each member thrives. The College does not allow discrimination or harassment based on race, color, sex, gender identity or expression, sexual orientation, ethnic or national origin or ancestry, physical or mental disability, pregnancy or any other protected status under applicable local, state or federal law.
+
+If you or someone you know has experienced discrimination or harassment, support is available to you:
+* **Confidential Reporting:** Students can report their experiences to [Health Services](https://www.wellesley.edu/healthservice) (`781-283-2810`); [Stone Center Counseling Service](https://www.wellesley.edu/counseling) (`781-283-2839`); or [Religious and Spiritual Life](https://www.wellesley.edu/campuslife/community/religiousandspirituallife) (`781-283-2685`). *These offices are not required to report allegations of sexual misconduct to the College.*
+* **Non-Confidential Reporting:** You can let either of your CS 230 instructors know. As faculty members, we are obligated to report allegations of sex-based discrimination to the [Non-discrimination/Title IX Office](https://www.wellesley.edu/administration/offices/titleix).
+  * You can report directly to the [Non-discrimination/Title IX Office](https://www.wellesley.edu/administration/offices/titleix) (`781-283-2451`) to receive support, and to learn more about your options for a response by the College or about reporting to a different institution.
+  * You can report to the [Wellesley College Police Department](https://www.wellesley.edu/police) (Emergency: `781-283-5555`, Non-emergency: `781-283-2121`) if you believe a crime has been committed, or if there is an immediate safety risk.
+
+
