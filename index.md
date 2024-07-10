@@ -228,7 +228,7 @@ Every student has a right to full access in this course. If you need any accommo
 
 <br/>
 
-## Religious Observance
+# Religious Observance
 
 Students whose religious observances conflict with scheduled course events should contact the instructors in advance to discuss alternative arrangements. You may do this through the [Wellesley College Religious Observance Notification System](https://webapps.wellesley.edu/religious_calendar/) if you prefer.
 
@@ -236,7 +236,7 @@ Students whose religious observances conflict with scheduled course events shoul
 
 <br/>
 
-## Policies on Discrimination, Harassment, and Sexual Misconduct
+# Policies on Discrimination, Harassment, and Sexual Misconduct
 
 Wellesley College considers diversity essential to educational excellence, and we are committed to being a community in which each member thrives. The College does not allow discrimination or harassment based on race, color, sex, gender identity or expression, sexual orientation, ethnic or national origin or ancestry, physical or mental disability, pregnancy or any other protected status under applicable local, state or federal law.
 
