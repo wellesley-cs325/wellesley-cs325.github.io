@@ -26,11 +26,6 @@ layout: default
     <br>
     <div>
         <div style="width:35%; float: left">
-            <!-- <h2>Instructors</h2> -->
-            <!-- <div class="image--cover-container">
-                <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                <p>{{site.data.people.instructor.name}}</p>
-            </div> -->
 
             <div class="profile-pic-gallary ">
                 <h2>Instructors</h2>
@@ -59,16 +54,18 @@ layout: default
                 {% for ta in site.data.people.teaching_assistants %}
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+		    <p>
                     {% if ta.webpage %}
-                    <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
+                    <a href="{{ ta.webpage }}">{{ta.name}}</a>
                     {% else %}
-                    <p>{{ta.name}}</p>
+                    {{ta.name}}
                     {% endif %}
 -cover">
                     {% if ta.pronouns %}
-                    <p>({{ta.pronouns}})</p>
+		    <br/>
+                    ({{ta.pronouns}})
                     {% endif %}
-		    
+		    </p>
                 </div>
                 {% endfor %}
             </div>
