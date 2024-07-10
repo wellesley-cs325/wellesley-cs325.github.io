@@ -72,3 +72,20 @@ We want you to succeed, and we will do all we can to help you learn the material
 <br/>
 
 
+# Equipment and Materials
+
+**Computers.** All programming in CS230 will be done using BlueJ. If you want, you can use your own computer but you will have to maintain the software, and be prepared to use the department's machines if yours has problems. Unfortunately, the course instructors will not be able to help you trouble-shoot your own computer.
+
+**Course Discussion.** This semester we will be using Courselore for CS230 for class discussion. If you have registered in the course, you will receive an email about joining after the first day of classes. Please do that. The system is highly catered to getting you help from classmates, the TAs, and the instructors. Rather than emailing questions to the teaching staff, we encourage you to post your questions on Courselore at the appropriate tag. We will use Courselore for several purposes. We will use it to make class announcements, such as corrections to assignments and clarifications of material discussed in class. We encourage you to post questions or comments that are of interest to students in the course. Please do not post significant amounts of Java code (i.e. more than one or two lines of code) in your messages on the group! The instructors and TAs will read messages posted in the group on a daily basis and post answers to questions found there. Please note that Courselore is mainly a tool for you to interact with your peers. Answering questions is one of the best ways to learn something, so try to answer each other's questions. Also, as a reminder, there are no such things as stupid questions, and the act of formulating your question carefully is also an important part of the learning process. Writing is thinking. So please don't be shy to ask any question that might pop up. To encourage this, please make sure that your questions are public to your peers as well as your instructors. **You are also encouraged to use Courselore to find people to join a study group.** Please plan to check Courselore on a daily basis.
+
+
+**Reading.** It is expected that you read the relevant sections of the textbook and the class notes twice a week. It is a must that you do that before you start your assignments because they will seem much easier to complete then!
+* **Textbook:** Regular readings will be assigned from the required text, Java Foundations, by Lewis, DePasquale and Chase. We will be using the 2nd edition though if you have access to a newer edition is fine. We recommend you buy your own copy because it can be useful for your future reference as well.
+* **Class Notes:** In the syllabus, each lecture is linked to class slides. If you would like to use them to keep notes feel free to print them before class or just download them on your device. Please note that the slides linked on the syllabus are not intended to be fully-fledged notes for each class. They are starting slides that you can expand on during class, when you take your own notes (as such, some of the slides might contain blanks).
+
+**Java Documentation.** Being able to understand and use the official Java Documentation is a characteristic of every successful programmer. Become familiar with it!
+
+
+
+# Course Requirements
+
