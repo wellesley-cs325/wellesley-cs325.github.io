@@ -37,14 +37,17 @@ layout: default
                 {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ins.webpage %}
-                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+		    <p>
+		    {% if ins.webpage %}
+                    <a href="{{ ins.webpage }}">{{ins.name}}</a>
                     {% else %}
-                    <p>{{ins.name}}</p>
+                    {{ins.name}}
                     {% endif %}
                     {% if ins.pronouns %}
-                    <p>({{ins.pronouns}})</p>
-                    {% endif %}		    
+		    <br/>
+                    ({{ins.pronouns}})
+                    {% endif %}
+		    </p>
                 </div>
                 {% endfor %}
             </div>
