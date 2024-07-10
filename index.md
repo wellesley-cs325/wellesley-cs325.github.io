@@ -6,6 +6,24 @@ layout: home
 <br/>
 
 
+# CS230, at a glance
+
+**Description:** An introduction to techniques and building blocks for organizing large programs. Topics include: modules, abstract data types, recursion, algorithmic efficiency, and the use and implementation of standard data structures and algorithms, such as lists, trees, graphs, stacks, queues, priority queues, tables, sorting, and searching. Students become familiar with these concepts through weekly programming assignments using the Java programming language. 
+
+**Lab:** This course has a required co-requisite lab - CS 230L.
+
+**Prerequisites:** A student is required to have confirmation of authorization from the CS 111 faculty that is based on the mastery of the CS 111 concepts in order to enroll in CS 230. Students who did not take CS 111 at Wellesley and who wish to enroll in CS 230 should contact the CS department to take a placement questionnaire.
+
+**Meeting Times:**
+* Class: Mondays and Thursdays, 2:20-3:35pm
+* Lab: TODO FILL
+
+**Meeting Location:** Science Center L Wing 180 Computer Science Computer Lab.
+
+
+
+
+
 # The Big Ideas in CS230
 
 **Data Abstraction:** Separate a program's behavior from its implementation.
@@ -49,5 +67,8 @@ We want you to succeed, and we will do all we can to help you learn the material
 * Read homework description immediately (Friday or Saturday at the latest).
 * Start working on the problem set as early as possible, and work on it a little bit every day, rather than trying to finish 1-2 days before it's due.
 * Start homework early, be prepared to make mistakes. That's how you learn a skill!
+
+
+<br/>
 
 
