@@ -1,9 +1,9 @@
 # Site settings
-course_name: "CS230: Data Structures in Java"
+course_name: "CS325: Designing for Accessibility"
 course_semester: "Fall 2024"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://wellesley-cs230.github.io/" # the base hostname & protocol for your site
+url: "https://wellesley-cs325.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Wellesley College"
 schoolurl: "https://www.wellesley.edu/"
