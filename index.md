@@ -12,8 +12,7 @@ layout: home
 
 **Prerequisites:** CS 220 or appropriate self-study.
 
-**Meeting Times:**
-* Class: Tuesdays and Fridays, 2:10-3:25pm
+**Meeting Times:** Tuesdays and Fridays, 2:10-3:25pm
 
 **Meeting Location:** Science Center L Wing 120 (HCI Lab).
 
