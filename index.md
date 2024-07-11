@@ -6,34 +6,38 @@ layout: home
 <br/>
 
 
-# Overview
+# Welcome to CS 325!
 
-**Description:** An introduction to techniques and building blocks for organizing large programs. Topics include: modules, abstract data types, recursion, algorithmic efficiency, and the use and implementation of standard data structures and algorithms, such as lists, trees, graphs, stacks, queues, priority queues, tables, sorting, and searching. Students become familiar with these concepts through weekly programming assignments using the Java programming language. 
+**Description:** In this course, students will learn how to design interventions for people with diverse abilities. Students will encounter models of disability, accessible design frameworks, participant-led research methodologies, and common assistive technologies through readings and hands-on activities. Students will form teams and work to address and design a solution for a real-world accessibility need.
 
-**Lab:** This course has a required co-requisite lab - CS 230L.
-
-**Prerequisites:** A student is required to have confirmation of authorization from the CS 111 faculty that is based on the mastery of the CS 111 concepts in order to enroll in CS 230. Students who did not take CS 111 at Wellesley and who wish to enroll in CS 230 should contact the CS department to take a placement questionnaire.
+**Prerequisites:** CS 220 or appropriate self-study.
 
 **Meeting Times:**
-* Class: Mondays and Thursdays, 2:20-3:35pm
-* Lab: TODO FILL
+* Class: Tuesdays and Fridays, 2:10-3:25pm
 
-**Meeting Location:** Science Center L Wing 180 Computer Science Computer Lab.
+**Meeting Location:** Science Center L Wing 120 (HCI Lab).
 
-
+**Office Hours:** TBD in Science Center L Wing 121 (across from the HCI Lab).
 
 <br/>
 
-# The Big Ideas in CS230
+# Course Overview
 
-**Data Abstraction:** Separate a program's behavior from its implementation.
+**Goals** 
+Over the semester, we will cover a range of research, disability, and assistive technology topics. We will engage with these topics in a variety of ways, including reading and presenting research papers, in-class discussions, activity labs, and a semester-long group project. At the end of the semester, you should be able to: 
 
-**Modularity:** Reusable components with standard interfaces.
-
-**Performance Analysis:** How efficient is your code with respect to space and time?
-
-**Standard Abstract Data Types:** We'll cover the classical data structures including lists, stacks, queues, trees, tables and graphs.
-
+* Define common models of disability and distinct perspectives on what it means for a system to be "accessible."
+* Apply principles of disability justice to your design thinking.
+* Apply principles of co-design and participatory action research to your design thinking.
+* Discuss a variety of Accessibility Technologies (AT) and who uses them.
+* Describe Inclusive Design and how it differs from other User-Centered Design methods.
+* List and incorporate important considerations for recruiting and working with participants with disabilities in UX research.
+* Consider intersectional participant identities and how your positionality/identity impacts you and your research.
+* Work with a variety of prototyping methods, both digital and physical.
+* Conduct a case study by enacting iterative interviews, co-design sessions, and formal user evaluation. 
+* Write a clear extended abstract. 
+* Create and carry out an accessible presentation. 
+* Read, analyze, synthesize, and discuss academic research papers.
 
 <br/>
 
