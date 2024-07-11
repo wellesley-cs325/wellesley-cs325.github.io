@@ -134,7 +134,7 @@ We want you to succeed, and we will do all we can to help you learn the material
 
 There is **no arbitrary limit** on the number of A's, B's, C's etc., and every student will be assigned the grade they earn and deserve according to the grading standards of the college.
 
-
+ 
 
 <br/>
 
