@@ -136,6 +136,7 @@ My intention as an educator is to provide a safe and inclusive environment for a
 **Helpful Links and Contact Information**
 
 My email address: [vg101@wellesley.edu](mailto:vg101@wellesley.edu)
+
 My office is L121 in the Science Center (right next to the HCI lab).
 
 Accessibility and Disability Resources: [https://www1.wellesley.edu/adr](https://www1.wellesley.edu/adr)
@@ -143,11 +144,15 @@ Accessibility and Disability Resources: [https://www1.wellesley.edu/adr](https:/
 Title IX: [https://www.wellesley.edu/about-us/offices-departments/title-ix](https://www.wellesley.edu/about-us/offices-departments/title-ix)
 
 Counseling Services
+
 Website: [https://www1.wellesley.edu/Counseling](https://www1.wellesley.edu/Counseling) 
+
 Email: [counseling@wellesley.edu](mailto:counseling@wellesley.edu)
+
 Phone Number (this number also works after hours for crisis support): 781-283-2839
 
 Wellesley Campus Police (Emergency): 781-283-5555
+
 Wellesley Campus Police (Non-emergency): 781-283-2121
 
 <br/>
