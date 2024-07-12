@@ -38,14 +38,10 @@ Over the semester, we will cover a range of research, disability, and assistive 
 * Create and carry out an accessible presentation. 
 * Read, analyze, synthesize, and discuss academic research papers.
 
-<br/>
-
 **Materials**
 
 All readings will be available online and/or linked to the course schedule as PDFs. For presentations, we will be working on shared Google slide decks, so students will need a Google account to access and edit (your Wellesley email should work for this purpose). 
 For design, I suggest (1) dotted or grid paper and (2) drawing/writing materials. I personally use [this notebook](https://www.amazon.com/gp/product/B07ZXHFVNW/ref=ox_sc_act_title_11?smid=A2LB5I1U16RCD4&psc=1) and [these pencils](https://www.amazon.com/gp/product/B00OQJYNW2/ref=ox_sc_act_title_10?smid=ATVPDKIKX0DER&th=1), but you can use anything you like.
-
-<br/>
 
 **Assignments and Evaluation**
 
@@ -72,14 +68,23 @@ You will embark on a semester-long group project that will incorporate the skill
 The mapping from numerical score to letter grades looks like this in CS325:
 
 A: 95%+
+
 A-: 90-94.99%
+
 B+: 86-89.99%
+
 B: 83-85.99%
+
 B-: 80-82.99%
+
 C+: 76-79.99%
+
 C: 73-75.99%
+
 C-: 70-72.99%
+
 D: 60-69.99%
+
 F: 0-59.99% 
 
 <br/>
