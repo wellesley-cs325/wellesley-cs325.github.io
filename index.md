@@ -50,6 +50,8 @@ During the semester, you will complete two group projects incorporating the skil
 * Project 1 - Redesigning Personal Tools (30%)
 * Project 2 - Accessible Art Experiences (50%)
 
+We will use Gradescope to submit all projects and any other assignments. **Please make a Gradescope account** and register for our course using the code **4JGGBE**. 
+
 **Grading Policy:** There is no arbitrary limit on the number of As, Bs, Cs, etc. for the class. Every student will be assigned the grade they earn and deserve according to the rubric for each assignment. 
 
 The mapping from numerical score to letter grades looks like this in CS325:
