@@ -8,7 +8,7 @@ layout: home
 
 # Welcome to CS 325!
 
-**Description:** In this course, students will learn how to design interventions for people with diverse abilities. Students will encounter models of disability, accessible design frameworks, participant-led research methodologies, and common assistive technologies through readings and hands-on activities. Students will form teams and work to address and design a solution for a real-world accessibility need.
+**Description:** In this course, students will learn how to design for people with diverse abilities. Students will encounter models of disability, accessible design frameworks, multimodal interaction methods, and forms of ableism through readings and hands-on activities. Students will form teams and work to design accessible experiences together.
 
 **Prerequisites:** CS 220 or appropriate self-study.
 
@@ -23,20 +23,16 @@ layout: home
 # Course Overview
 
 **Goals** 
-Over the semester, we will cover a range of research, disability, and assistive technology topics. We will engage with these topics in a variety of ways, including reading and presenting research papers, in-class discussions, activity labs, and a semester-long group project. At the end of the semester, you should be able to: 
+Over the semester, we will cover a range of research, disability, and assistive technology topics. We will engage with these topics in a variety of ways, including reading and discussing research papers, learning from domain experts, and group projects. At the end of the semester, you should be able to: 
 
 * Define common models of disability and distinct perspectives on what it means for a system to be "accessible."
-* Apply principles of disability justice to your design thinking.
-* Apply principles of co-design and participatory action research to your design thinking.
-* Discuss a variety of Accessibility Technologies (AT) and who uses them.
-* Describe Inclusive Design and how it differs from other User-Centered Design methods.
-* List and incorporate important considerations for recruiting and working with participants with disabilities in UX research.
-* Consider intersectional participant identities and how your positionality/identity impacts you and your research.
+* Apply principles of disability justice and participatory action research to your design thinking.
+* Create an accessible and multimodal art experience.
 * Work with a variety of prototyping methods, both digital and physical.
-* Conduct a case study by enacting iterative interviews, co-design sessions, and formal user evaluation. 
-* Write a clear extended abstract. 
+* Create an accessible website.
 * Create and carry out an accessible presentation. 
 * Read, analyze, synthesize, and discuss academic research papers.
+* Consider intersectional participant identities and how your positionality/identity impacts you and your design thinking.
 
 **Materials**
 
@@ -48,20 +44,11 @@ For design, I suggest (1) dotted or grid paper and (2) drawing/writing materials
 **Participation: 20%**
 At the 300 level, class is less about lectures and more about discussion, engagement, and hands-on learning. Therefore, attendance, timeliness, focus, and engagement are a significant portion of your evaluation and grade.
 
-**Research Presentations: 10%**
-During the semester, we will have two weeks dedicated to research presentations and discussions. Each student will present once and facilitate a discussion after the presentation. This is how we will often engage with research papers and course content topics.
+**Group Project: 80%**
+During the semester, you will complete two group projects incorporating the skills and content we learn through the course. Each project has multiple components which you will be responsible for tracking. If you need help with time management, please contact me immediately to help your team make a project completion plan.
 
-**Group Project: 70%**
-You will embark on a semester-long group project that will incorporate the skills and content we learn through the course. 
-
-* P1 - Participant interview notes (5%)
-* P2 - Ideation and project proposal (10%)
-* P3 - Iterative design sketches (5%)
-* P4 - Early feedback notes (5%)
-* P5 - Prototype (15%)
-* P6 - User Evaluation (10%)
-* P7 - Final project write-up (10%)
-* Final research presentation (10%)
+* Project 1 - Redesigning Personal Tools (30%)
+* Project 2 - Accessible Art Experiences (50%)
 
 **Grading Policy:** There is no arbitrary limit on the number of As, Bs, Cs, etc. for the class. Every student will be assigned the grade they earn and deserve according to the rubric for each assignment. 
 
@@ -87,6 +74,10 @@ D: 60-69.99%
 
 F: 0-59.99% 
 
+**Late Assignment Policy:** You are highly encouraged to submit projects on the requested deadlines. The deadlines are strategically placed to align with course content. However, I understand that life happens. 
+
+You may submit project milestones up to 48 hours after the deadline without penalty. If you need extra time beyond this grace period, it is required that you contact the instructor during the 48-hour grace period. We will work together to make a plan that is reasonable and effective to support both your learning and health.
+
 <br/>
 
 # Course Expectations
@@ -103,8 +94,6 @@ I will provide time in class for group project work, but I expect you to meet wi
 The [Wellesley College honor code](https://www.wellesley.edu/studentlife/aboutus/honor/procedures) applies to CS325. 
 
 This course emphasizes collaboration, as working effectively within teams is an important part of innovation culture. I strongly encourage you to get to know all of your classmates (and me!) and to collaborate extensively with them during the group project and any in-class exercises. 
-
-Research presentations are individually assessed and should be developed without any collaboration. 
 
 **Use of Generative AI to Complete Assignments**
 
@@ -159,10 +148,10 @@ Wellesley Campus Police (Non-emergency): 781-283-2121
 
 # References
 
-The CS325 syllabus and course materials are influenced by and/or derived in part from:
+The CS325 syllabus and course materials are influenced by and derived in part from:
 
-* INLS 690 at the University of North Carolina Chapel Hill
-* CS220 at Wellesley College
-* CSE 493e at the University of Washington
-* CSCI 5849 at the University of Colorado Boulder
-
+* INLS 690 at the University of North Carolina Chapel Hill (William Payne)
+* CS220 at Wellesley College (Orit Shaer, Catherine Delcourt, Vinitha Gadiraju)
+* CSE 493e at the University of Washington (Jennifer Mankoff)
+* CSCI 5849 at the University of Colorado Boulder (Shaun Kane)
+* Accessibility as Creative Practice (NYU Ability Project, Stefanie Koseff) 
