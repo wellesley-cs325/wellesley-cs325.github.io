@@ -2,7 +2,7 @@
 type: lecture
 date: 2024-09-02
 title: Lecture 1
-tldr: "CS 325 Overview and Accessibility Introduction"
+topic: "CS 325 Overview and Accessibility Introduction"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     - url: https://google.com
