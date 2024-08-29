@@ -5,7 +5,7 @@ title: Lecture 1
 tldr: "CS 325 Overview and Accessibility Introduction"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    - url: [Lecture 1 Slides](https://docs.google.com/presentation/d/16z1gWGHIcF1pLttFUMyBXsZ_syYELjvRx1GeYZi6dOM/edit?usp=sharing)
+    - url: https://docs.google.com/presentation/d/16z1gWGHIcF1pLttFUMyBXsZ_syYELjvRx1GeYZi6dOM/edit?usp=sharing
       name: Lecture 1 Slides
 ---
 **Suggested Readings:**
