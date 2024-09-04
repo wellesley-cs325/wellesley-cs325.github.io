@@ -9,5 +9,6 @@ links:
       name: Lecture 2 Slides
 ---
 **Suggested Readings:**
-- [Reading 1](https://blog.castac.org/2022/04/disability-dongle/)
-- [Reading 2](https://www.enculturation.net/technocapitalist-disability-rhetoric)
+- [Reading 1](https://drive.google.com/file/d/1J5NFEEdBoOQAFsf5oErxrpQC6IxPrbqr/view?usp=sharing)
+- [Reading 2](https://drive.google.com/file/d/15-lbsb-YTrKjxKTuzv0x5zhuBpM8qgpq/view?usp=sharing)
+- [Video 1](https://www.youtube.com/watch?v=g2m97gPI70I)
