@@ -16,7 +16,7 @@ layout: home
 
 **Meeting Location:** Science Center L Wing 120 (HCI Lab).
 
-**Office Hours:** TBD in Science Center L Wing 121 (across from the HCI Lab).
+**Office Hours:** Mondays 10:30AM - 12:30PM Science Center L Wing 121 (across from the HCI Lab). Thursdays 9:00-11:00 AM remote: [Google Meet Link] (https://meet.google.com/ixy-rzdi-bgw)
 
 <br/>
 
