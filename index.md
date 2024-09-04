@@ -154,7 +154,7 @@ Wellesley Campus Police (Non-emergency): 781-283-2121
 The CS325 syllabus and course materials are influenced by and derived in part from:
 
 * INLS 690 at the University of North Carolina Chapel Hill (William Payne)
-* CS220 at Wellesley College (Orit Shaer, Catherine Delcourt, Vinitha Gadiraju)
+* CS 220 at Wellesley College (Orit Shaer, Catherine Delcourt, Vinitha Gadiraju)
 * CSE 493e at the University of Washington (Jennifer Mankoff)
 * CSCI 5849 at the University of Colorado Boulder (Shaun Kane)
 * Accessibility as Creative Practice (NYU Ability Project, Stefanie Koseff) 
