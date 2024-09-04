@@ -23,6 +23,7 @@ layout: home
 # Course Overview
 
 **Goals** 
+
 Over the semester, we will cover a range of research, disability, and assistive technology topics. We will engage with these topics in a variety of ways, including reading and discussing research papers, learning from domain experts, and group projects. At the end of the semester, you should be able to: 
 
 * Define common models of disability and distinct perspectives on what it means for a system to be "accessible."
