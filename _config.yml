@@ -1,6 +1,6 @@
 # Site settings
 course_name: "CS325: Designing for Accessibility"
-course_semester: "Fall 2024"
+course_semester: "Fall 2025"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://wellesley-cs325.github.io/" # the base hostname & protocol for your site
