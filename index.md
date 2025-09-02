@@ -12,11 +12,11 @@ layout: home
 
 **Prerequisites:** CS 220 or appropriate self-study.
 
-**Meeting Times:** Tuesdays and Fridays, 12:45-2pm
+**Lecture Meeting Times:** Tuesdays and Fridays, 12:45-2pm
 
 **Meeting Location:** Science Center L Wing 120 (HCI Lab).
 
-**Office Hours:** Mondays 10:30AM - 12:30PM Science Center L Wing 121 (across from the HCI Lab). Thursdays 9:00-11:00 AM remote: [Google Meet Link](http://meet.google.com/doi-khsv-hgi)
+**Office Hours:** Mondays 10:30AM - 12:30PM Science Center L Wing 121 (across from the HCI Lab). Tuesdays 3:00-4:00 PM remote: [Google Meet Link](http://meet.google.com/doi-khsv-hgi)
 
 <br/>
 
